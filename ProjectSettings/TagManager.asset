@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Trigger1
+  - Trigger2
+  - DiamondPortal
+  - Goal1
+  - Fire
+  - s_hp
+  - s_jump
+  - Goal2
   layers:
   - Default
   - TransparentFX
@@ -12,7 +20,7 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
+  - TITLE
   - 
   - 
   - 
